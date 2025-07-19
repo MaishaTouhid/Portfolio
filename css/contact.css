@@ -1,0 +1,40 @@
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #e8ecefe5, #89c1c8);
+      color: #0a0101cc;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+
+    }
+
+    h1 {
+      color: #060101d4;
+    }
+
+    .contact-info {
+      margin: 20px 0;
+      text-align: center;
+      padding: 15px;
+      background-color: white;
+      border-radius: 5px;
+    }
+
+    .back {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: white;
+      color: #000403cf;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
